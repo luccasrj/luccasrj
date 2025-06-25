@@ -1,16 +1,11 @@
-## Hi there 👋
+## 🙋‍♂️ Prazer, Lucas!
 
-<!--
-**luccasrj/luccasrj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Desenvolvedor com 4 anos de experiência no FiveM, focado em Back-End com Lua, JavaScript e bancos de dados. Trabalho com APIs, integração com aplicações web e bots em Discord.js para servidores e comunidades. 
+## 💻 Linguagens
+  <a href ="" target="_blank"><img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" target="_blank"></a>
+  <a href ="" target="_blank"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" target="_blank"></a>
+  <a href ="" target="_blank"><img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" target="_blank"></a>
+  <a href ="" target="_blank"><img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" target="_blank"></a>
+  <a href ="" target="_blank"><img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" target="_blank"></a>
+## 💬 Fale comigo
+  <a href ="https://discord.com/users/590594125519126558" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
