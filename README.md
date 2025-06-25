@@ -1,6 +1,6 @@
 ## 🙋‍♂️ Prazer, Lucas!
 
-Desenvolvedor com 4 anos de experiência no FiveM, focado em Back-End com Lua, JavaScript e bancos de dados. Trabalho com APIs, integração com aplicações web e bots em Discord.js para servidores e comunidades. 
+Desenvolvedor com 4 anos de experiência em FiveM, especializado em Back-End com Lua, JavaScript e bancos de dados. Atuo no desenvolvimento e integração de APIs, além da criação de bots para servidores no Discord.
 ## 💻 Linguagens
   <a href ="" target="_blank"><img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" target="_blank"></a>
   <a href ="" target="_blank"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" target="_blank"></a>
