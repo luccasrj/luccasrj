@@ -1,4 +1,4 @@
-## 🙋‍♂️ Prazer, Lucas!
+## 🙋‍♂️ Fala, tudo certo? Eu sou o Lucas.
 
 Desenvolvedor com 4 anos de experiência em FiveM, especializado em Back-End com Lua, JavaScript e bancos de dados. Atuo no desenvolvimento e integração de APIs, além da criação de bots para servidores no Discord.
 ## 💻 Linguagens
